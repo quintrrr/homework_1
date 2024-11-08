@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gomza_arina_lab", "gomza_arina_lab\gomza_arina_lab.csproj", "{56A816CA-C562-46C9-82B2-DF794B070B86}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gomza_arina_file", "gomza_arina_file\gomza_arina_file.csproj", "{39734C22-2065-40CC-86AC-EAB59E40312D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{56A816CA-C562-46C9-82B2-DF794B070B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56A816CA-C562-46C9-82B2-DF794B070B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56A816CA-C562-46C9-82B2-DF794B070B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39734C22-2065-40CC-86AC-EAB59E40312D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39734C22-2065-40CC-86AC-EAB59E40312D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39734C22-2065-40CC-86AC-EAB59E40312D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39734C22-2065-40CC-86AC-EAB59E40312D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
